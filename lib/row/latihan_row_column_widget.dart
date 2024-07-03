@@ -13,11 +13,9 @@ class LatihanRowCol extends StatelessWidget {
           children: [
              Container(
             child: Text('ini column 1'),
-            color: Colors.blue,
           ),
           Container(
             child: Text('ini column 2'),
-            color: Colors.blue,
           ),
           ],
          ),
@@ -26,15 +24,12 @@ class LatihanRowCol extends StatelessWidget {
           children: [
              Container(
             child: Text('ini column 1'),
-            color: Colors.blue,
           ),
           Container(
             child: Text('ini column 2'),
-            color: Colors.blue,
           ),
           Container(
             child: Text('ini column 3'),
-            color: Colors.blue,
           ),
           ],
          ),
